@@ -1,1 +1,1 @@
-# Ujian-Serifikasi-Associate-Data-Scientisr
+# Ujian-Sertifikasi-Associate-Data-Scientist
